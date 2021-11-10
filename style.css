@@ -1,0 +1,38 @@
+body 
+{
+    background-size: cover;
+}
+
+.btn
+{
+   font-size: 25px !important;
+   width: 25%;
+   height: 6%;
+   text-align: center;
+   border-radius: 30px;
+   padding-bottom: 3%;
+   box-shadow: 5px 5px 5px pink;
+   font-family: monospace;
+}
+
+.heading
+{
+    color: white;
+    font-family:cursive;
+    background-color:lightpink;
+    width: 50%;
+    border-radius: 15px;
+    height: 7%;
+
+}
+
+.king
+{
+    color: white;
+    font-family:cursive;
+    background-color: coral;
+    width: 40%;
+    font-size: 30px !important;
+    border-radius: 30px;
+    box-shadow: 50px 20px 100px white;
+}
