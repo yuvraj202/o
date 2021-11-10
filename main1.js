@@ -35,7 +35,7 @@ function gotResult(error, results) {
 
 
 function draw() {
-  image(img, 0, 500, 640, 420);
+  image(img, 0, 0, 640, 420);
 
       if(status != "")
       {
